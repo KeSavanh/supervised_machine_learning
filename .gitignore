@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Hire unrelated files.
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.history
+.gitattributes
